@@ -1,9 +1,6 @@
 import cv2
 import os
 
-import cv2
-import os
-
 # upload the video
 video_path = "path.MP4"
 cap = cv2.VideoCapture(video_path)
